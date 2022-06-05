@@ -39,3 +39,8 @@ function multiply(a,b) {
 - **Course**: Yandex Practicum (HTML/CSS Basics)
 
 ---
+
+### Languages
+
+- **English** - Intermediate/Upper-intermediate
+- **Russian**
