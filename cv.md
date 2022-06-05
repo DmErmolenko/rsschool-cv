@@ -9,3 +9,7 @@
 - E-mail: dmz.ermolenko@gmail.com
 - Telegram: @dmermolenko
 - GitHub: [DmErmolenko](https://github.com/DmErmolenko)
+
+### About Me:
+
+A highly motivated person looking for something new, interesting and exciting. Starting to learn how to code with [RS-School](https://rs.school/).
