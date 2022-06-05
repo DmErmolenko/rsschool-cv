@@ -1,7 +1,5 @@
 # Dmitry Ermolenko
 
----
-
 ### Contact info:
 
 - Address: Pushkinskay st. Mogilev, Belarus
@@ -13,3 +11,9 @@
 ### About Me:
 
 A highly motivated person looking for something new, interesting and exciting. Starting to learn how to code with [RS-School](https://rs.school/).
+
+### Skills:
+
+- HTML/CSS (Basic)
+- JS (Basic)
+  > _More coming soon_
