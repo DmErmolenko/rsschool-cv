@@ -1,6 +1,7 @@
 * {
   box-sizing: border-box;
 }
+
 body {
   background-color: rgba(0, 0, 0, 0.753);
 }
@@ -23,29 +24,35 @@ body {
 .header {
   background-color: rgba(0, 0, 0, 0.753);
 }
+
 .container {
   max-width: 1440px;
   margin: 0 auto;
 }
+
 .nav-list {
   display: flex;
   justify-content: flex-end;
   align-items: center;
   list-style: none;
 }
+
 .link {
   text-decoration: none;
   transition: color 0.5s;
 }
+
 .link:hover {
   color: rgb(77, 127, 168);
 }
+
 .nav-link {
   color: white;
   padding: 0 9px;
   line-height: 50px;
   white-space: nowrap;
 }
+
 .profile {
   display: flex;
   justify-content: space-around;
@@ -60,38 +67,84 @@ body {
   justify-content: center;
   text-align: center;
 }
+
 .main-foto {
   height: 250px;
   width: 250px;
   border-radius: 60%;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.7);
 }
+
 .title {
   letter-spacing: 12px;
 }
+
 .main-container {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
 }
+
 .section {
   width: calc(50% - 60px);
   padding: 0 15px;
+  border-bottom: 1px solid black;
 }
+
+#languages {
+  border-bottom: 0;
+}
+
+#education {
+  border-bottom: 0;
+}
+
 span {
   font-weight: bold;
 }
+
 .contact-link {
   color: rgba(32, 179, 118, 0.829);
   font-weight: bold;
 }
+
 .section-link {
   color: rgba(32, 179, 118, 0.829);
   font-weight: bold;
 }
+
 .gh-link {
   color: white;
 }
+
+.footer-container {
+  background-color: rgba(0, 0, 0, 0.753);
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.rss-link {
+  background-image: url(./assets/svg/rs_school_js.svg);
+  width: 100px;
+  height: 40px;
+  color: white;
+  margin: 15px;
+  background-repeat: no-repeat;
+}
+
+.author {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  color: white;
+}
+
+.date {
+  padding: 0 15px;
+}
+
 @media (max-width: 768px) {
   .section {
     width: 100%;
