@@ -12,13 +12,14 @@ body {
   flex-direction: column;
   justify-content: space-between;
   min-height: 100vh;
-  margin: 0 10%;
+  margin: 0 auto;
   padding: 0;
   background-color: rgb(180, 204, 186);
   color: rgb(0, 0, 0);
   box-shadow: 10px 10px 50px rgba(0, 0, 0, 0.753) inset;
-  font-size: 18px;
+  font-size: 21px;
   line-height: 1.5;
+  max-width: 1440px;
 }
 
 .header {
@@ -155,5 +156,8 @@ span {
   }
   .main-foto {
     align-self: center;
+  }
+  #education {
+    border-bottom: 1px solid black;
   }
 }
