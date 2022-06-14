@@ -161,3 +161,9 @@ span {
     border-bottom: 1px solid black;
   }
 }
+@media (max-width: 660px) {
+  .nav-list {
+    justify-content: flex-start;
+    flex-direction: column;
+  }
+}
